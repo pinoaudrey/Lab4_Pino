@@ -4,7 +4,7 @@
 class matrix
 {
 	int rows;
-	int cols;
+	int cols:
 	double ** grid = nullptr;
 	double ** grid_temp = nullptr;
 	public:
